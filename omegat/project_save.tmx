@@ -12,6 +12,22 @@
         <seg>La joven con el pendiente de perla: La misteriosa obra maestra de la Edad de Oro Neerlandesa. Por Kelly Richman-Abdou, 28 de junio de 2021. Una de las pinturas más aclamadas del siglo XVII, es el cautivador retrato de Johannes Vermeer, la joven con el pendiente de perla. </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It portrays an anonymous woman wearing “exotic” blue-and-yellow  clothing and sitting before a stark black background.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Normius" changedate="20251112T035720Z" creationid="Normius" creationdate="20251112T035720Z">
+        <seg>Retrata a una mujer anónima que usa ropa "exótica", azul y amarilla, y se encuentra frente a un fondo negro intenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This painting represents the best  of Dutch art.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Normius" changedate="20251112T035618Z" creationid="Normius" creationdate="20251112T035618Z">
+        <seg>Esta pintura muestra lo mejor del arte Neerlandes.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
