@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Although Vermeer saw moderate success during his lifetime, the painting did not  attain international fame when it was completed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="javie" changedate="20251112T044939Z" creationid="javie" creationdate="20251112T044939Z">
+        <seg>Aunque Vermeer tuvo un éxito moderado durante su vida, la pintura no alcanzó fama internacional cuando se completó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Girl With a Pearl Earring: The Mysterious Masterpiece of the Dutch Golden Age  By Kelly Richman-Abdou, June 28, 2021  One of the most acclaimed paintings to emerge in the 17th century is Johannes  Vermeer’s enticing portrait, Girl With a Pearl Earring.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Normius" changedate="20251112T042239Z" creationid="Normius" creationdate="20251112T042239Z">
@@ -20,6 +28,14 @@ Por Kelly Richman-Abdou, 28 de junio de 2021.Una de las pinturas más aclamadas 
       <tuv lang="es-MX" changeid="javie" changedate="20251112T044454Z" creationid="javie" creationdate="20251112T044454Z">
         <seg>LA JOVEN DE LA PERLA EN CONTEXTO. 
 El artista neerlandés Johannes Vermeer es reconocido por sus representaciones de Delft contemporáneo, una ciudad en Holanda donde el artista nació, vivió y murió. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is one of just 35 paintings attributed to him.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="javie" changedate="20251112T044819Z" creationid="javie" creationdate="20251112T044819Z">
+        <seg> Es una de solo 35 pinturas atribuidas al pintor</seg>
       </tuv>
     </tu>
     <tu>
