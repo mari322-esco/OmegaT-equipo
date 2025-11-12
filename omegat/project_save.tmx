@@ -66,6 +66,14 @@ El artista neerlandés Johannes Vermeer es reconocido por sus representaciones d
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specifically, he is known for his  intimate portrayals of domestic interiors and portraits of women, like the figure  featured in Girl with a Pearl Earring.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="javie" changedate="20251112T044622Z" creationid="javie" creationdate="20251112T044622Z">
+        <seg>Específicamente, es conocido por sus representaciones de interiores domésticos y retratos de mujeres, como la figura que aparece en La joven de la perla. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Girl with a Pearl Earring was the title of a 1999 novel by Tracey Chevalier and was  adapted to film in 2003, starring Scarlett Johansson as Griet, a young servant in the  household of Vermeer, played by Colin Firth.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="javie" changedate="20251112T043420Z" creationid="javie" creationdate="20251112T043420Z">
@@ -87,6 +95,14 @@ casa de Vermeer, interpretado por Colin Firth. </seg>
       </tuv>
       <tuv lang="es-MX" changeid="Normius" changedate="20251112T042250Z" creationid="Normius" creationdate="20251112T042250Z">
         <seg>Esta pintura muestra lo mejor del arte neerlandés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vermeer painted the piece around 1665.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="javie" changedate="20251112T044715Z" creationid="javie" creationdate="20251112T044715Z">
+        <seg>Vermeer pintó esta obra alrededor de 1665.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
