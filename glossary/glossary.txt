@@ -1,0 +1,5 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+chastity	castidad
+Girl With a Pearl Earring	La joven de la perla
+portraits	Retrato
+Dutch Golden Age	Siglo de Oro Neerlandés
