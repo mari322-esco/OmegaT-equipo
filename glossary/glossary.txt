@@ -3,3 +3,4 @@ chastity	castidad
 Girl With a Pearl Earring	La joven de la perla
 portraits	Retrato
 Dutch Golden Age	Siglo de Oro Neerlandés
+Gods	Dioses
